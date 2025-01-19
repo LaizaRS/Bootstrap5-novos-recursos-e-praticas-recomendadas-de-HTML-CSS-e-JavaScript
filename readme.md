@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ##  Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1416526426344382412). 
-
 <br>
+Você pode assistir as video aulas desse projeto através [DESSE LINK](https://cursos.alura.com.br/course/bootstrap-5-novos-recursos-praticas-html-css-javascript)
 
 
